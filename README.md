@@ -1,6 +1,6 @@
 <table>
-        <th>Naked Coding</td>
-        <th>Programming Socks</td>
+        <th>Naked Coding</th>
+        <th>Programming Socks</th>
     <tr>
         <td>Free as in free beer</td>
         <td>A corporate ploy to make you buy things manufactured at a Chinese or Bangladeshi sweatshop</td>
