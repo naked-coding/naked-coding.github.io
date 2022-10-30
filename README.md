@@ -1,8 +1,6 @@
 <table>
-    <tr>
         <th>Naked Coding</td>
         <th>Programming Socks</td>
-    </tr>
     <tr>
         <td>Free as in free beer</td>
         <td>A corporate ploy to make you buy things manufactured at a Chinese or Bangladeshi sweatshop</td>
@@ -21,7 +19,7 @@
     </tr>
     <tr>
         <td>Socially unacceptable. Thus cool</td>
-        <td>Already socially accepted. Nobody is going to bat an eye if you show up in thigh highs and high heels #StunningAndBrave</td>
+        <td>Already socially accepted. Nobody is going to bat an eye if you show up in thigh highs and high heels <a href="README.md"> #StunningAndBrave</a></td>
     </tr>
     <tr>
         <td>Back to the roots</td>
